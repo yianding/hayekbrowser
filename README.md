@@ -74,6 +74,7 @@ Additional parameters needed to build are documented at https://github.com/brave
 
 Internal developers can find more information at https://github.com/brave/devops/wiki/npm-config-for-Brave-Developers
 
+set treat_warnings_as_errors=false in out/Android_componet_apk/arg.gn 
 ## Build Brave
 The default build type is component.
 
